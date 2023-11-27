@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "manoat7575@gmail.com",
+      "Username": "sd",
+      "pass": "wq",
+      "id": 2
+    },
+    {
+      "email": "manoat7575@gmail.com",
+      "Username": "MANO",
+      "pass": "123",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
